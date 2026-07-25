@@ -85,7 +85,7 @@ Blockchain links transaction records into secure blocks maintained by a distribu
 
 ## Step 4: Mention applications and challenges.
 
-## Summary: Blockchain is a secure decentralized ledger that stores transactions in linked blocks. It provides transparency, trust, and security but faces challenges like scalability and energy consumption.
+### Summary: Blockchain is a secure decentralized ledger that stores transactions in linked blocks. It provides transparency, trust, and security but faces challenges like scalability and energy consumption.
 
 #### Role-based Output
 
@@ -110,7 +110,7 @@ Step 3: Consensus verifies transactions.
 
 Step 4: Applications include finance and healthcare.
 
-## Summary: Blockchain securely stores data across many computers, reducing fraud and improving transparency, though scalability remains a challenge.
+### Summary: Blockchain securely stores data across many computers, reducing fraud and improving transparency, though scalability remains a challenge.
 
 Role-based Output
 
@@ -131,7 +131,7 @@ Main Topic: Blockchain Technology
 
 Key Concepts: Digital ledger, blocks, cryptographic hashing, decentralization, consensus, applications, benefits, and challenges.
 
-## Summary: Blockchain securely stores information in linked blocks verified by distributed computers. It supports cryptocurrencies and smart contracts while improving transparency and trust. However, scalability, regulation, and energy consumption remain important challenges.
+### Summary: Blockchain securely stores information in linked blocks verified by distributed computers. It supports cryptocurrencies and smart contracts while improving transparency and trust. However, scalability, regulation, and energy consumption remain important challenges.
 
 ## Role-based Output
 
