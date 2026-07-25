@@ -11,7 +11,7 @@ The summaries are evaluated based on:
 
 Accuracy
 Coherence
-Simplicity
+SImplicity
 Speed
 User Experience
 ## Algorithm
